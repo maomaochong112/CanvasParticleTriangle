@@ -1,0 +1,26 @@
+{
+"name": "canvasparticletriangle-maomaochong",
+"version": "1.0.0",
+"description": "Canvas Particle Triangle.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/maomaochong112/CanvasParticleTriangle.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "maomaochong112",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
